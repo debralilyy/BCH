@@ -1,0 +1,32 @@
+body{
+    text-align: center;
+    background-color: rgb(126, 135, 144);
+    color: black;
+    margin: 0%;
+}
+section {
+    padding: 50px;
+    margin: 10px auto;
+    max-width: 500px;
+    background-color: darkcyan;
+    border-radius: 3px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    align-items: center;
+}
+button{
+    background-color: cornflowerblue;
+    color: black;
+}
+button:hover{
+    background-color: cornflowerblue ;
+}
+table{
+    width: auto;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+th, td{
+    border: 1px;
+    padding: 8px;
+    text-align: center;
+}
